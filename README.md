@@ -1,1 +1,1 @@
-# building_web_component_with_vue3_and_typescript
+# Building web component with vue3 and typescript
